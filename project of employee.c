@@ -13,6 +13,18 @@ int main()
     char employee_name[25];
     int employee_password[25];
     printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
+    printf("\n\n\n\n\n\n\n\n\n\t\t\t\t\t1.  OH YEAH OH YEAH Administrator\n");
     printf("\t\t\t\t\t2. Employer Details\n\n");
     printf("\t\t\t\t\tSelect your desired option : ");
     scanf("%d",&select);
